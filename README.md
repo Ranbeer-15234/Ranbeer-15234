@@ -1,19 +1,18 @@
-#  Hi, I'm Ranbeer Singh
+  Hi, I'm Ranbeer Singh
 
  Aspiring Front-End Developer | React.js Enthusiast | AI-Powered Builder
 
 I'm passionate about crafting responsive web apps using modern tools like React.js, Vite, and GitHub Pages.
-I love solving layout bugs, optimizing performance,and using AI tools like ChatGPT and Copilot to debug, 
+I love solving layout bugs, optimizing performance, and using AI tools like ChatGPT and Copilot to debug, 
 refactor, and generate clean UI components.
 
-## 🔧 Tech Stack
+ Tech Stack
 - **Languages & Frameworks:** HTML5, CSS3, JavaScript (ES6+), React.js, Vite
 - **Tools:** GitHub, GitHub Pages, VS Code, CMD
 - **Concepts:** Responsive Design, Flexbox, Grid Layout, Routing, Deployment
 - **AI Tools:** ChatGPT, Copilot (Prompt Engineering, Layout Fixes, UI Generation)
 
-## 📦 Featured Projects
-## 📦 Featured Projects
+ Featured Projects
 
 ### 🌦️ Weather App
 A dynamic weather dashboard using OpenWeatherMap API. Built with HTML, CSS, and JavaScript.  
